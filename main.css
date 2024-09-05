@@ -14,14 +14,23 @@ h2{
     font-size: larger;
 }
 
-body{background-image: url(https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif);
-background-repeat: no-repeat;
-background-size: cover;} 
+
 
 body{
-    color:rgb(255, 255, 255)
+    color:rgb(55, 39, 39)
 }
 
 a{
-    color:white
+    color:rgb(0, 72, 255)
+}
+
+.foto{
+    max-width: fit-content;
+    margin-left: auto;
+    
+}
+
+.blok{
+    flex-direction:row;
+    display: flex; 
 }
