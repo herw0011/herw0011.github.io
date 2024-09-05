@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(236, 252, 255);
+    background-color: rgb(255, 255, 255);
 }
 
 body{
@@ -24,13 +24,6 @@ a{
     color:rgb(0, 72, 255)
 }
 
-.foto{
-    max-width: fit-content;
-    margin-left: auto;
-    
-}
 
-.blok{
-    flex-direction:row;
-    display: flex; 
-}
+
+
