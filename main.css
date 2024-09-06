@@ -1,10 +1,9 @@
 body{
     background-color: rgb(213, 225, 246);
-}
-
-body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-}
+    color:rgb(55, 39, 39);
+  }
+
 
 h1{
     font-size: xx-large;
@@ -15,15 +14,9 @@ h2{
 }
 
 
-
-body{
-    color:rgb(55, 39, 39)
-}
-
 a{
     color:rgb(0, 72, 255)
 }
-
 
 
 .navbar {
@@ -89,7 +82,6 @@ a{
     max-width: 100%; /* Image will never be larger than its container */
     height: auto; /* Maintain the aspect ratio */
     position: absolute; /* or use 'fixed' depending on your needs */
-    top: ; /* Aligns the image to the top */
     right: 10px; /* Aligns the image to the right */
     margin: 10px; /* Optional: Add some spacing from the edges */
   }
