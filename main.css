@@ -93,7 +93,7 @@ a{
     height: auto; /* Maintain the aspect ratio */
     position: absolute; /* or use 'fixed' depending on your needs */
     top: 250px; /* Aligns the image to the top */
-    right: 10px; /* Aligns the image to the right */
+    right: 50px; /* Aligns the image to the right */
     margin: 10px; /* Optional: Add some spacing from the edges */
   }
 
