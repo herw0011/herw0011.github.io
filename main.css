@@ -87,7 +87,7 @@ a{
   }
 
   .Microbit {
-    width: 120px;
+    width: 250px;
     height: auto;
     max-width: 100%; /* Image will never be larger than its container */
     height: auto; /* Maintain the aspect ratio */
