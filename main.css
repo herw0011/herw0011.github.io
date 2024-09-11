@@ -6,7 +6,7 @@ body{
 
 
 h1{
-    font-size: xx-large;
+    font-size: x-large;
 }
 
 h2{
@@ -99,8 +99,8 @@ a{
     max-width: 100%; /* Image will never be larger than its container */
     height: auto; /* Maintain the aspect ratio */
     position: absolute; /* or use 'fixed' depending on your needs */
-    top: 300px; /* Aligns the image to the top */
-    right: 50px; /* Aligns the image to the right */
+    top: 350px; /* Aligns the image to the top */
+    right: 150px; /* Aligns the image to the right */
     margin: 10px; /* Optional: Add some spacing from the edges */
   }
   
@@ -122,7 +122,7 @@ a{
     height: auto; /* Maintain the aspect ratio */
     position: absolute; /* or use 'fixed' depending on your needs */
     top: 100px; /* Aligns the image to the top */
-    right: -175px; /* Aligns the image to the right */
+    right: 0px; /* Aligns the image to the right */
     margin: 10px; /* Optional: Add some spacing from the edges */
   }
 
@@ -132,8 +132,8 @@ a{
     max-width: 100%; /* Image will never be larger than its container */
     height: auto; /* Maintain the aspect ratio */
     position: absolute; /* or use 'fixed' depending on your needs */
-    top: 300px; /* Aligns the image to the top */
-    right: 300px; /* Aligns the image to the right */
+    top: 350px; /* Aligns the image to the top */
+    right: 400px; /* Aligns the image to the right */
     margin: 10px; /* Optional: Add some spacing from the edges */
 
   }
@@ -144,15 +144,26 @@ a{
     max-width: 100%; /* Image will never be larger than its container */
     height: auto; /* Maintain the aspect ratio */
     position: absolute; /* or use 'fixed' depending on your needs */
-    top: 450px; /* Aligns the image to the top */
-    right: 300px; /* Aligns the image to the right */
+    top: 500px; /* Aligns the image to the top */
+    right: 400px; /* Aligns the image to the right */
     margin: 10px; /* Optional: Add some spacing from the edges */
 
   }
  
- 
-  table, th, td {
-    border:1px solid black;
+  .eren {
+    width: 250px;
+    height: auto;
+    max-width: 100%; /* Image will never be larger than its container */
+    height: auto; /* Maintain the aspect ratio */
+    position: absolute; /* or use 'fixed' depending on your needs */
+    top: 500px; /* Aligns the image to the top */
+    right: 150px; /* Aligns the image to the right */
+    margin: 10px; /* Optional: Add some spacing from the edges */
+
   }
+  
+  
+  
+  
 
   
