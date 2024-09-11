@@ -1,7 +1,7 @@
 body{
     background-color: rgb(213, 225, 246);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    color:rgb(55, 39, 39);
+    color:#372727;
   }
 
 
@@ -78,12 +78,17 @@ a{
 
   .Index{
     text-align: center;
-    margin-left: 275px;
-    margin-right: 275px;
+    margin-left: 400px;
+    margin-right: 400px;
     line-height: 25px;
+    position: absolute;
+    top: 150px;
+    color:#372727; 
+  
+  
   }
   
-  .h1-home{
+  .h1-Home{
     text-align: center;
   }
   
@@ -94,7 +99,7 @@ a{
     max-width: 100%; /* Image will never be larger than its container */
     height: auto; /* Maintain the aspect ratio */
     position: absolute; /* or use 'fixed' depending on your needs */
-    top: 425px; /* Aligns the image to the top */
+    top: 300px; /* Aligns the image to the top */
     right: 50px; /* Aligns the image to the right */
     margin: 10px; /* Optional: Add some spacing from the edges */
   }
@@ -110,18 +115,44 @@ a{
     margin: 10px; /* Optional: Add some spacing from the edges */
   }
 
-  .Microbit {
+  .pfp {
     width: 250px;
     height: auto;
     max-width: 100%; /* Image will never be larger than its container */
     height: auto; /* Maintain the aspect ratio */
     position: absolute; /* or use 'fixed' depending on your needs */
-    top: 250px; /* Aligns the image to the top */
-    right: 50px; /* Aligns the image to the right */
+    top: 100px; /* Aligns the image to the top */
+    right: -175px; /* Aligns the image to the right */
     margin: 10px; /* Optional: Add some spacing from the edges */
   }
 
+  .ranni {
+    width: 250px;
+    height: auto;
+    max-width: 100%; /* Image will never be larger than its container */
+    height: auto; /* Maintain the aspect ratio */
+    position: absolute; /* or use 'fixed' depending on your needs */
+    top: 300px; /* Aligns the image to the top */
+    right: 300px; /* Aligns the image to the right */
+    margin: 10px; /* Optional: Add some spacing from the edges */
+
+  }
+ 
+  .sukuna {
+    width: 250px;
+    height: auto;
+    max-width: 100%; /* Image will never be larger than its container */
+    height: auto; /* Maintain the aspect ratio */
+    position: absolute; /* or use 'fixed' depending on your needs */
+    top: 450px; /* Aligns the image to the top */
+    right: 300px; /* Aligns the image to the right */
+    margin: 10px; /* Optional: Add some spacing from the edges */
+
+  }
+ 
  
   table, th, td {
     border:1px solid black;
   }
+
+  
