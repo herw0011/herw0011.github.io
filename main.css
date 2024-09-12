@@ -121,8 +121,8 @@ a{
     max-width: 100%; /* Image will never be larger than its container */
     height: auto; /* Maintain the aspect ratio */
     position: absolute; /* or use 'fixed' depending on your needs */
-    top: 100px; /* Aligns the image to the top */
-    right: 0px; /* Aligns the image to the right */
+    top: 125px; /* Aligns the image to the top */
+    right: 125px; /* Aligns the image to the right */
     margin: 10px; /* Optional: Add some spacing from the edges */
   }
 
