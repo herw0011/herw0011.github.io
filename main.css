@@ -121,8 +121,8 @@ a{
     max-width: 100%; /* Image will never be larger than its container */
     height: auto; /* Maintain the aspect ratio */
     position: absolute; /* or use 'fixed' depending on your needs */
-    top: 125px; /* Aligns the image to the top */
-    right: 125px; /* Aligns the image to the right */
+    top: 75px; /* Aligns the image to the top */
+    right: 25px; /* Aligns the image to the right */
     margin: 10px; /* Optional: Add some spacing from the edges */
   }
 
@@ -162,6 +162,12 @@ a{
 
   }
   
+  aside{
+    position: absolute;
+    right: 50px;
+    top: 550px;
+    background-color: hsla(213, 72%, 72%, 0.422);
+  }
   
   
   
