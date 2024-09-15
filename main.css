@@ -18,7 +18,7 @@
   }
 
    .navbar {
-    background-color: #2a2525;
+    background-color: #0545bd3c;
     overflow: hidden;
     position: fixed;
     top: 0px;
@@ -155,15 +155,11 @@
   .blogdetails{
    text-align: center;
   }
-
-  .pbtw {
-   font-size: smaller;
-  }
      
   .h1home{
   text-align: center;
   font-size: 250px;
-  margin-top: 50px;
+  margin-top: 25px;
   margin-bottom: 25px;
   background-image: url(homebackground.jpg);
   background-repeat: no-repeat;
@@ -171,7 +167,14 @@
   background-attachment: fixed;
   }
 
+ .h2home{
+  position:absolute;
+  left:160px;
+ }
 
-
+ .motivation{
+  position: fixed;
+  left:160px;
+ }
 
   
