@@ -14,7 +14,7 @@
   }
 
   a{
-    color:rgba(0, 72, 255, 0.771)
+    color:rgba(29, 89, 241, 0.771)
   }
 
    .navbar {
@@ -81,57 +81,57 @@
   .hz-logo {
     width: 120px;
     height: auto;
-    max-width: 100%; /* Image will never be larger than its container */
-    height: auto; /* Maintain the aspect ratio */
-    position: absolute; /* or use 'fixed' depending on your needs */
-    right: 10px; /* Aligns the image to the right */
-    margin: 10px; /* Optional: Add some spacing from the edges */
+    max-width: 100%;
+    height: auto;
+    position: absolute;
+    right: 10px;
+    margin: 10px;
   }
 
   .pfp {
     width: 250px;
     height: auto;
-    max-width: 100%; /* Image will never be larger than its container */
-    height: auto; /* Maintain the aspect ratio */
-    position: absolute; /* or use 'fixed' depending on your needs */
-    top: 75px; /* Aligns the image to the top */
-    right: 25px; /* Aligns the image to the right */
-    margin: 10px; /* Optional: Add some spacing from the edges */
+    max-width: 100%;
+    height: auto;
+    position: absolute;
+    top: 75px;
+    right: 25px;
+    margin: 10px; 
   }
 
   .ranni {
     width: 250px;
     height: auto;
-    max-width: 100%; /* Image will never be larger than its container */
-    height: auto; /* Maintain the aspect ratio */
-    position: absolute; /* or use 'fixed' depending on your needs */
-    top: 350px; /* Aligns the image to the top */
-    right: 400px; /* Aligns the image to the right */
-    margin: 10px; /* Optional: Add some spacing from the edges */
+    max-width: 100%;
+    height: auto;
+    position: absolute;
+    top: 350px;
+    right: 400px;
+    margin: 10px;
 
   }
  
   .sukuna {
     width: 250px;
     height: auto;
-    max-width: 100%; /* Image will never be larger than its container */
-    height: auto; /* Maintain the aspect ratio */
-    position: absolute; /* or use 'fixed' depending on your needs */
-    top: 500px; /* Aligns the image to the top */
-    right: 400px; /* Aligns the image to the right */
-    margin: 10px; /* Optional: Add some spacing from the edges */
+    max-width: 100%;
+    height: auto;
+    position: absolute;
+    top: 500px;
+    right: 400px;
+    margin: 10px;
 
   }
  
   .eren {
     width: 250px;
     height: auto;
-    max-width: 100%; /* Image will never be larger than its container */
-    height: auto; /* Maintain the aspect ratio */
-    position: absolute; /* or use 'fixed' depending on your needs */
-    top: 500px; /* Aligns the image to the top */
-    right: 150px; /* Aligns the image to the right */
-    margin: 10px; /* Optional: Add some spacing from the edges */
+    max-width: 100%; 
+    height: auto; 
+    position: absolute;
+    top: 500px; 
+    right: 150px;
+    margin: 10px; 
 
   }
   
@@ -186,8 +186,9 @@
   margin-top:25px;
   margin-bottom:50px; 
   border-width:3px; 
-  border-style:solid; 
-  border-color:#0545bd
+  border-style:dashed; 
+  border-color:#0545bd;
+  border-radius: 5px;
  }
 
-  
+ 
