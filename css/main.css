@@ -161,7 +161,7 @@
   font-size: 250px;
   margin-top: 25px;
   margin-bottom: 25px;
-  background-image: url(homebackground.jpg);
+  background-image: url("assets/homebackground.jpg");
   background-repeat: no-repeat;
   background-size: 100% 100%;
   background-attachment: fixed;
@@ -175,6 +175,19 @@
  .motivation{
   position: fixed;
   left:80px;
+ }
+
+ .h1Faq{
+  text-align:center;
+ }
+ 
+ .faqStyle{
+  text-align:center;
+  margin-top:25px;
+  margin-bottom:50px; 
+  border-width:3px; 
+  border-style:solid; 
+  border-color:#0545bd
  }
 
   
